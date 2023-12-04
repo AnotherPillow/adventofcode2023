@@ -66,7 +66,7 @@ module.exports = {
             }
         }
         
-        console.log('PART 1: ' +
+        console.log('PART 2: ' +
             totals.reduce((x, y) => x + y)
         )
     }
