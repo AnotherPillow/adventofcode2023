@@ -19,7 +19,6 @@ module.exports = {
     },
     part2: function () {
         const replaceWordsWithNumbers = (text) => {
-            let _prevText = `${text}`
             const subs = [
                 {
                     word: 'one',
